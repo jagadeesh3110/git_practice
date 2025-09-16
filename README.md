@@ -1,7 +1,7 @@
 # PROJECT_NAME — ML Model API (FastAPI)
 
 Production-ready template for serving a Machine Learning model as a REST API using **FastAPI**.  
-Includes local development, testing, Docker packaging, and deployment guidance.
+Includes local development, testing, Docker packaging, and deployment guidancee.
 
 ---
 
